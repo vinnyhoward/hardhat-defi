@@ -7,5 +7,5 @@
 ## Common Commands
 
 ```
- npx hardhat run scripts/aaveBorrow.ts    
+ npx hardhat run scripts/aaveBorrow.ts
 ```
